@@ -12,6 +12,6 @@ To run the application:
     - zip file https://github.com/Amr097/daily-journal/archive/master.zip
     - git clone https://github.com/Amr097/daily-journal.git
     
-2- In your terminal cd to the file location type `node app.js` to start the server at port 3000.
+2. In your terminal cd to the file location type `node app.js` to start the server at port 3000.
 
-3- Download [postman](https://www.postman.com/downloads/) to send server requests.
+3. Download [postman](https://www.postman.com/downloads/) to send server requests.
