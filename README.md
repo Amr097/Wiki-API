@@ -14,4 +14,4 @@ To run the application:
     
 2- In your terminal cd to the file location type `node app.js` to start the server at port 3000.
 
-3- Download postman [here](https://www.postman.com/downloads/) to send server requests.
+3- Download [postman](https://www.postman.com/downloads/) to send server requests.
