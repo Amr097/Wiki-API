@@ -2,7 +2,8 @@
 
 ## Summary
 
-Simple app built as a part of RESTful APIs tutorial.
+Re-useable Restful  API responsible for Handling CURD (Create, Read, Update && Delete) operations developed using NodeJs, ExpressJs.
+
 
 ## Installation
 
